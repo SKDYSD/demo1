@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4624" started-at="2019-03-19T08:28:08Z" finished-at="2019-03-19T08:28:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4624" started-at="2019-03-19T08:28:08Z" finished-at="2019-03-19T08:28:13Z">
+      <class name="baidu1.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:baidu1.NewTest@33e5ccce]" name="beforeMethod" is-config="true" duration-ms="3139" started-at="2019-03-19T16:28:08Z" finished-at="2019-03-19T16:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:baidu1.NewTest@33e5ccce]" name="f" duration-ms="1473" started-at="2019-03-19T16:28:11Z" finished-at="2019-03-19T16:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:baidu1.NewTest@33e5ccce]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-03-19T16:28:13Z" finished-at="2019-03-19T16:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- baidu1.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
